@@ -27,6 +27,9 @@ Light Stage Data Gallery, via:
 
 https://vgl.ict.usc.edu/Data/LightStage/
 
+## Results
+
+We have shown some results of our GR-PSN in the document ``results'', including the estimation of 96 input images on the DiLiGenT benchmark dataset, and the rendered examples  of object ``Dragon'' (.mp4).
 
 
 ## Testing
